@@ -41,4 +41,4 @@ while True:
         
         time.sleep(2)
   else:
-	print 'Failed to get reading. Try again!'
+	print 'Cannot Reading'
